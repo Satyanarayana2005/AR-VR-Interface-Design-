@@ -21,6 +21,4 @@
 
 ~Overall, this Figma design project is a great example of how AR technology can be used to create immersive and engaging experiences. The attention to detail and focus on creating a peaceful and romantic ambiance make it a compelling concept for anyone looking to create a unique dining experience.
 
-OUTPUT:
-
-https://github.com/user-attachments/assets/0a18419d-9ef1-4c11-89ce-e949f4ec1f56
+OUTPUT: 
